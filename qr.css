@@ -33,7 +33,7 @@ img {
 }
 .card {
     width: 320px;
-    height: 70vh;
+    height: 60vh;
     background-color: var(--white-color);
     border: 1px solid transparent;
     border-radius: 15px;
